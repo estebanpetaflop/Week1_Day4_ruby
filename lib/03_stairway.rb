@@ -52,7 +52,7 @@ def action (roll=0, stair=0)
     end
 return roll
 end
-
+start_game
 #---------------------------------------------
 # partie 2 avec le average_finish_time -- pour l'exécuter décommenter average_finish_time
 
